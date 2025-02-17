@@ -1,11 +1,11 @@
-# 👋 안녕하세요! 저는 조진목입니다.
+# 👋 안녕하세요! 조진목입니다.
 
 ## 🌟 소개
 경북대학교 데이터 사이언스 대학원 재학 중이며, 데이터 분석 및 기계 학습에 열정을 가진 학생입니다. 다양한 데이터 세트를 활용하여 인사이트를 도출하고, 문제를 해결하는 데 집중하고 있습니다. 
 
 
 ## 🔧 기술 스택
-- **프로그래밍 언어**: Python, SQL, R
+- **프로그래밍 언어**: Python, MS SQL, R
 - **도구**: Jupyter Notebook, Tableau, Git
 
 ## 🌱 현재 배우고 있는 것
@@ -17,7 +17,7 @@
 
 
 ## 📝 블로그
-- [Study]([블로그 링크](https://aivle.tistory.com/category/%5BKT%20AIVLE%20SCHOOL%5D)) - Study
+- for Study([DX_조진목](https://aivle.tistory.com/category/%5BKT%20AIVLE%20SCHOOL%5D))
 
 ## 📂 주요 프로젝트
 ### [신용카드 승인 분석](링크)
