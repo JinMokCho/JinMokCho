@@ -20,7 +20,7 @@
 - for Study([DX_조진목](https://aivle.tistory.com/category/%5BKT%20AIVLE%20SCHOOL%5D))
 
 ## 📂 주요 프로젝트
-### [신용카드 승인 분석](링크)
+### [신용카드 승인 분석](https://github.com/JinMokCho/Credit-card)
 - **설명**: 금융 분야의 신용카드 승인 과정을 최적화하기 위해 다양한 신청 데이터를 분석하였습니다. 모델링을 통해 승인율에 영향을 미치는 요인을 파악하고, 예측 모델을 개발하여 은행의 신용카드 승인 결정을 지원합니다.
 - **기술 스택**: Python, Pandas, Scikit-learn, SMOTE, XGBoost
 - **성과**: 모델의 정확도 95%, 재현율 92%, F1-점수 91%를 달성하여 신용 카드 거절 사례를 효과적으로 예측하였습니다.
