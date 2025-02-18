@@ -94,7 +94,7 @@
 
 ---
 
-### 💳 [신용카드 승인 분석](https://github.com/JinMokCho/Credit-Card-Approval-Analysis)
+### 💳 [신용카드 승인 분석](https://github.com/JinMokCho/Credit-card)
 - **설명**: 신용카드 승인 과정을 최적화하기 위해 신청자 데이터를 분석하여 승인율에 영향을 미치는 요인들을 파악하는 프로젝트입니다. 본 연구는 교내 빅데이터 분석 대회에서 우수상을 수상하였습니다.
 - **기간**: 2024.11 - 2025.02
 - **사용 기술**: Python, SHAP, AutoGluon, Optuna
@@ -109,7 +109,7 @@
 
 ---
 
-### ⚡ [전기 생산량 분석](https://github.com/JinMokCho/Electricity-Production)
+### ⚡ [전기 생산량 분석](https://github.com/JinMokCho/electricity-producing)
 - **설명**: 세계 전기 생산량의 추이를 분석하여 기후 변화와 신재생 에너지 개발의 중요성을 강조하는 프로젝트입니다.
 - **기간**: 2024.03 - 2024.06
 - **사용 기술**: Python, Pandas, NumPy, Matplotlib, Tableau
@@ -123,7 +123,7 @@
     - 프로젝트 결과를 발표하여 기후 변화 대응 및 신재생 에너지 개발의 필요성을 알리는 데 기여하였습니다.
 
 ---
-### 🎬 [영화 추천 시스템](https://github.com/JinMokCho/Movie-Recommendation-System)
+### 🎬 [영화 추천 시스템](https://github.com/JinMokCho/Movie-recommendation)
 - **설명**: TMDB 영화 데이터셋을 사용하여 영화 추천 시스템을 구축하고, 데이터 전처리 및 탐색적 데이터 분석(EDA)을 통해 추천의 정확성을 높이는 프로젝트입니다.
 - **기간**: 2024.01 - 2024.03
 - **사용 기술**: Python, Pandas, NumPy, Seaborn, Matplotlib, NLTK, Transformers, WordCloud, Sklearn
@@ -138,7 +138,7 @@
 
 ---
 
-### 📱 [고객 경험을 중심으로 한 모바일 뱅킹 서비스 만족도와 사용성 연구](https://github.com/JinMokCho/Mobile-Banking-Customer-Satisfaction)
+### 📱 [고객 경험을 중심으로 한 모바일 뱅킹 서비스 만족도와 사용성 연구](https://github.com/JinMokCho/Capstone)
 - **설명**: 20대 이용자를 중심으로 모바일 뱅킹 서비스의 만족도와 사용성을 연구하여 고객 경험을 개선하기 위한 전략을 제안하는 프로젝트입니다.
 - **기간**: 2024.03 - 2024.06
 - **사용 기술**: SPSS, Python, Excel
@@ -153,21 +153,7 @@
 
 ---
 
-### ✈️ [항공사 리뷰 감성 분석](https://github.com/JinMokCho/Airline-Review-Sentiment-Analysis)
-- **설명**: 항공사 리뷰 데이터를 분석하여 고객의 감정을 파악하고, 이를 바탕으로 비즈니스 제안을 도출하는 프로젝트입니다.
-- **기간**: 2023.11 - 2023.12
-- **사용 기술**: Python, NLTK, Scikit-learn, Pandas, Matplotlib, WordCloud
-- **내가 한 성과**: 
-    - 데이터 수집 단계에서 항공사 리뷰 데이터를 수집하고, 데이터 전처리 과정에서 불필요한 문자를 제거하고 소문자로 변환하여 데이터 품질을 향상시켰습니다.
-    - 감성 분류를 위해 긍정, 부정, 중립으로 레이블링하여 데이터셋을 구축하였습니다.
-    - NLTK 라이브러리를 사용하여 텍스트 데이터를 분석하고, 단어 빈도 분석을 통해 주요 키워드를 추출하였습니다.
-    - 감성 분석 모델을 구축하여 Scikit-learn을 활용해 모델 성능을 평가하고, 정확도, 정밀도, 재현율 등의 성능 지표를 도출하였습니다.
-    - 분석 결과를 바탕으로 항공사 서비스 개선을 위한 구체적인 비즈니스 제안을 작성하였으며, 고객의 요구와 기대를 충족시키기 위한 방안을 제시하였습니다.
-    - 시각화를 통해 긍정적 및 부정적 리뷰의 분포를 나타내어, 이해관계자에게 결과를 효과적으로 전달하였습니다.
-
----
-
-### 🤖 [BERT 감성 분석 프로젝트](https://github.com/JinMokCho/BERT-Sentiment-Analysis)
+### 🤖 [BERT 감성 분석 프로젝트](https://github.com/JinMokCho/AT)
 - **설명**: BERT 모델을 사용하여 항공사 트윗의 감정을 분석하는 자연어 처리(NLP) 모델을 구축하는 프로젝트입니다. BERT는 양방향 학습을 통해 단어의 의미와 문맥을 이해하는 능력을 갖추고 있습니다.
 - **기간**: 2024.01 - 2024.03
 - **사용 기술**: Python, Numpy, Pandas, Seaborn, Matplotlib, Torch, Transformers, Datasets
@@ -182,7 +168,7 @@
 
 ---
 
-### 🚀 [Spaceship Titanic](https://github.com/JinMokCho/Spaceship-Titanic)
+### 🚀 [Spaceship Titanic](https://github.com/JinMokCho/Spacesship_Titanic)
 - **설명**: "Spaceship Titanic" 데이터셋을 활용하여 승객의 생존 여부를 예측하는 머신러닝 모델을 구축하는 프로젝트입니다. 데이터 전처리, 탐색적 데이터 분석(EDA), 다양한 머신러닝 모델 학습 및 하이퍼파라미터 튜닝을 포함합니다.
 - **기간**: 2024.02 - 2024.04
 - **사용 기술**: Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM
