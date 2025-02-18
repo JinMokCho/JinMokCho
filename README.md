@@ -5,8 +5,13 @@
 
 
 ## 🔧 기술 스택
-- **프로그래밍 언어**: Python, MS SQL, R
-- **도구**: Jupyter Notebook, Tableau, Git
+### 프로그래밍 언어
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+### 도구
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
 
 ## 🌱 현재 배우고 있는 것
 - 그래프머신러닝
@@ -29,5 +34,8 @@
 - **설명**: 금융 분야의 신용카드 승인 과정을 최적화하기 위해 다양한 신청 데이터를 분석하였습니다. 모델링을 통해 승인율에 영향을 미치는 요인을 파악하고, 예측 모델을 개발하여 은행의 신용카드 승인 결정을 지원합니다.
 - **기술 스택**: Python, Pandas, Scikit-learn, SMOTE, XGBoost
 - **성과**: 모델의 정확도 95%, 재현율 92%, F1-점수 91%를 달성하여 신용 카드 거절 사례를 효과적으로 예측하였습니다.
+
+
+
 
 
