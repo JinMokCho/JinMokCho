@@ -14,7 +14,7 @@
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
 
 ## 🌱 현재 배우고 있는 것
-- 그래프머신러닝
+- 그래프 머신러닝
 - XAI
 
 ## 📫 연락처
