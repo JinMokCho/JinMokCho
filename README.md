@@ -101,7 +101,7 @@
 
 ---
 
-### 💳 [신용카드 연체 예측 프로젝트](https://github.com/JinMokCho/AI-Competition-to-Predict-Delinquency-of-Credit-Card-Users)
+### 💳 [신용카드 연체 예측](https://github.com/JinMokCho/AI-Competition-to-Predict-Delinquency-of-Credit-Card-Users)
 - **설명**: 이 프로젝트는 신용카드 사용자의 연체 여부를 예측하기 위한 머신러닝 모델을 개발하는 것입니다. 다양한 모델을 활용하고, 데이터 전처리 및 특성 엔지니어링을 통해 모델의 성능을 극대화하는 것을 목표로 하였습니다.
 - **기간**: 2024.11 - 2025.02
 - **사용 기술**: Python, pandas, numpy, scikit-learn, XGBoost, LightGBM, AutoGluon, Optuna, SHAP
