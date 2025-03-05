@@ -81,7 +81,7 @@
 
 ---
 
-### 🐾 [아이펫: 반려동물 등록 스테이션 입지 최적화](https://github.com/JinMokCho/Pet_registration)
+### 🐾 [아이펫: 반려동물 등록 스테이션 입지 최적화](https://github.com/JinMokCho/Pet_registration) 
 - **설명**: 유기견 데이터, 등록대행 업체 데이터, 인구수 데이터, 유기동물 구조수 데이터를 분석하여 최적의 위치를 선정하기 위한 MCLP 모델링을 포함한 프로젝트입니다.
 - **기간**: 2024.11 - 2025.02
 - **사용 기술**: Python, Pandas, NumPy, Matplotlib, Scikit-learn, PuLP, Haversine, Tableau
