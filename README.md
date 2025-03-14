@@ -65,7 +65,7 @@
 
 ## 🎖️ 수상
 - 빅데이터 사례발표 대회 우수상 - 2023.12
-- KT AIVLE SCHOOL 6기 Practical Award
+- KT AIVLE SCHOOL 6기 Practical Award - 2025.02
 
 ## 🎓 자격증 및 교육
 - KT AIVLE SCHOOL 6기 DX 컨설턴트 수료 - 2024.09 ~ 2025.02
