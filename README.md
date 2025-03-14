@@ -71,7 +71,7 @@
 - 빅데이터분석 기사 필기 - 2024.09
 - ADSP - 2023.09
 - AICE Associate - 2025.02
-- 메타코드M Financial Data Analysis Project 수료 - 2025.02
+- 메타코드M Financial Data Analysis Project 우수 수료 - 2025.02
 - Cos Pro 2급 - 2023.01
 - Opic IM1 - 2024.01
 - 한국사 고급 - 2023.10
