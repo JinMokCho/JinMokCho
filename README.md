@@ -13,6 +13,10 @@
 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
 
+## 📂 On going
+- **스텔스 차량 탐지**: 후방전조등이 꺼진 차량을 탐지 → 전조등 위치 기반 차량 탐지 → 차량 번호판 탐지 → 결과 출력: [원본 이미지 + 차량 bbox + 번호판 bbox + 번호판 텍스트]
+- ** UFC Social Network Analysis: Impact Score**: UFC 선수의 영향력 점수를 측정 → UFC 흥행에 영향을 주는 선수 파악
+
 ## 🌱 현재 배우고 있는 것
 - 그래프 머신러닝
 - XAI
